@@ -1,0 +1,3 @@
+﻿  задание2.cpp
+C:\Users\User\Desktop\homework\задание2\задание2\задание2.cpp(10,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  задание2.vcxproj -> C:\Users\User\Desktop\homework\задание2\x64\Debug\задание2.exe
