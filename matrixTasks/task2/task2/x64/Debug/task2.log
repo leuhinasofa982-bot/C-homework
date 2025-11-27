@@ -1,0 +1,6 @@
+﻿  matrixUtils.cpp
+C:\Users\User\Desktop\matrixTasks\matrix\task1\matrixUtils.cpp(47,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  task2.cpp
+C:\Users\User\Desktop\matrixTasks\task2\task2\task2.cpp(14,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода...
+  task2.vcxproj -> C:\Users\User\Desktop\matrixTasks\task2\x64\Debug\task2.exe
