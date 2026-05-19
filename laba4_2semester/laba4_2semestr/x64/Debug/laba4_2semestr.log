@@ -1,0 +1,17 @@
+﻿  Complex.cpp
+  laba4_2semestr.cpp
+  Rational.cpp
+  Создание кода...
+C:\Users\User\Desktop\homework\laba4_2semestr\laba4_2semestr\Rational.cpp(6,22): error C2039: "gcd": не является членом "std".
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\fstream(20,1):
+       см. объявление "std"
+  
+C:\Users\User\Desktop\homework\laba4_2semestr\laba4_2semestr\Rational.cpp(6,22): error C3861: gcd: идентификатор не найден
+C:\Users\User\Desktop\homework\laba4_2semestr\laba4_2semestr\Rational.cpp(15,32): error C2572: Rational::Rational: переопределение аргумента по умолчанию: параметр 1
+      C:\Users\User\Desktop\homework\laba4_2semestr\laba4_2semestr\Rational.h(11,5):
+       см. объявление "Rational::Rational"
+  
+C:\Users\User\Desktop\homework\laba4_2semestr\laba4_2semestr\Rational.cpp(15,43): error C2572: Rational::Rational: переопределение аргумента по умолчанию: параметр 2
+      C:\Users\User\Desktop\homework\laba4_2semestr\laba4_2semestr\Rational.h(11,5):
+       см. объявление "Rational::Rational"
+  
